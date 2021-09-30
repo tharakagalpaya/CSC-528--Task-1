@@ -4,4 +4,4 @@
 
 Tensorflow 2.0 or higher,pandas,numpy,scikit-learn,matplotlib.
 
-Rename column in orginal NIC.csv as IDN
+Rename the column in orginal NIC.csv as IDN
