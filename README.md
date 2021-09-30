@@ -1,7 +1,11 @@
-# CSC-528--Task-1
+# CSC-528-Assignment 2
 
-## Requirments 
+## Requirments for Task 1
 
-Tensorflow 2.0 or higher,pandas,numpy,scikit-learn,matplotlib.
+Tensorflow 2.0 or higher,pandas,scikit-learn,matplotlib.
 
-Rename the column in orginal NIC.csv as IDN
+Rename the column in orginal NIC.csv as IDN.
+
+## Requirments for Task 2
+
+Tensorflow 2.0 or higher,OpenCV,matplotlib,PIL
