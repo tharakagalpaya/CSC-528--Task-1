@@ -10,4 +10,4 @@ Rename the column in orginal NIC.csv as IDN.
 
 Tensorflow 2.0 or higher,OpenCV,matplotlib,PIL
 
-Create parent folder as ECG. Then create two folders and name them as COVID and NOCOVID. Put ECGs of covid patient in to COVID folder and all other ECGs into NOCOVID folder.
+Create  folder as ECG. Then create two subfolders inside ECG folder and name them as COVID and NOCOVID. Put ECGs of covid patient in to COVID folder and all other ECGs into NOCOVID folder.
